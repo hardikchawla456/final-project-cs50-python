@@ -96,9 +96,3 @@ This project also includes unit tests to ensure its functionality and reliabilit
 ## Dependencies
 
 - `pytest`: For running unit tests. Install it via `pip install pytest`.
-
----
-
-## License
-
-This project is open-source and free to use under the MIT License.
